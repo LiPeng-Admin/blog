@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/LiPeng-Admin/blog#readme",
   "dependencies": {
+    "art-template": "^4.13.2",
+    "bootstrap": "^3.3.7",
     "express": "^4.17.2",
+    "express-art-template": "^1.0.1",
+    "jquery": "^3.2.1",
     "mongoose": "^6.1.3"
   }
 }
